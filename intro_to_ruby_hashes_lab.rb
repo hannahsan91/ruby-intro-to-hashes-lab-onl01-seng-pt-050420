@@ -8,6 +8,7 @@ def actor
 end
 
 def monopoly
+  binding.pry
 	monopoly = {
 
   }
